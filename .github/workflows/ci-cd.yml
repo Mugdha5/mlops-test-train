@@ -27,5 +27,5 @@ jobs:
       run: flake8 train.py
 
     - name: Run Tests
-      run: pytest tests/
+      run: pytest tests/ --import-mode=importlib  # Forces pytest to use correct import
 

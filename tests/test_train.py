@@ -1,7 +1,15 @@
+
+import sys
+import os
 import pytest
 import numpy as np
 from sklearn.linear_model import LinearRegression
+
+# Add the parent directory to sys.path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
 from train import model  # Import the trained model from train.py
+
 
 def test_model_coefficients():
     """Test if the model coefficients are close to the expected value."""
