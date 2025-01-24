@@ -48,7 +48,7 @@ param_grid = {
     'max_depth': [None, 5, 10],
     'min_samples_split': [2, 5],
     'min_samples_leaf': [1, 2],
-    'max_terminal_nodes': [2,1]
+    #'max_terminal_nodes': [2,1]
 }
 grid_search = GridSearchCV(
     estimator=model,
