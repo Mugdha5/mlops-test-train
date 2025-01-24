@@ -2,8 +2,9 @@ name: MLOps CI/CD
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
 jobs:
   test:
@@ -28,4 +29,13 @@ jobs:
 
     - name: Run Tests
       run: pytest tests/ --import-mode=importlib  # Forces pytest to use correct import
+
+    - name: Train model
+      run: |
+        python animal_classification_model/animal_classification.py
+
+    - name: Save model
+      run: |
+        mkdir model
+        cp animal_classification_model/animal_classification_model.joblib model/
 
