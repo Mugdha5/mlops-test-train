@@ -15,7 +15,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix
 import joblib
 
-dataset = pd.read_csv('./zoo.csv')
+dataset = pd.read_csv('animal_classification_model/zoo.csv')
 
 # The first column which are names of the animals is not a Feature that can be used.
 # Extract the column and save for later.
