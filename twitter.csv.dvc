@@ -1,0 +1,5 @@
+outs:
+- md5: aa8a4b0f80d7185983bcf1cd2c95aa3e
+  size: 3501243
+  hash: md5
+  path: twitter.csv
