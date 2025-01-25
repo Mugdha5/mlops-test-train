@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sansharma/Desktop/PG/3rd_Sem_Data/MLOPS/Assignment/newMlops_code/mlops-test-train/mlruns/200541608506512358/5a328c97ce7e44baa400c7877164a4b2/artifacts
+end_time: 1737827392331
+entry_point_name: ''
+experiment_id: '200541608506512358'
+lifecycle_stage: active
+run_id: 5a328c97ce7e44baa400c7877164a4b2
+run_name: placid-snail-523
+run_uuid: 5a328c97ce7e44baa400c7877164a4b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737827392258
+status: 4
+tags: []
+user_id: sansharma

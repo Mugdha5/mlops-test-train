@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sansharma/Desktop/PG/3rd_Sem_Data/MLOPS/Assignment/newMlops_code/mlops-test-train/mlruns/200541608506512358/260683f41ce94c4cbbb34b9c1e29e491/artifacts
+end_time: 1737827366920
+entry_point_name: ''
+experiment_id: '200541608506512358'
+lifecycle_stage: active
+run_id: 260683f41ce94c4cbbb34b9c1e29e491
+run_name: efficient-zebra-2
+run_uuid: 260683f41ce94c4cbbb34b9c1e29e491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737827366855
+status: 4
+tags: []
+user_id: sansharma
