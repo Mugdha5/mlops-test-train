@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sansharma/Desktop/PG/3rd_Sem_Data/MLOPS/Assignment/newMlops_code/mlops-test-train/animal_classification_model/mlruns/902795202297568382/2c419baceb954109b1d7087c9ee45c7b/artifacts
+end_time: 1737827231440
+entry_point_name: ''
+experiment_id: '902795202297568382'
+lifecycle_stage: active
+run_id: 2c419baceb954109b1d7087c9ee45c7b
+run_name: handsome-robin-714
+run_uuid: 2c419baceb954109b1d7087c9ee45c7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737827231386
+status: 4
+tags: []
+user_id: sansharma

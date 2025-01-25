@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sansharma/Desktop/PG/3rd_Sem_Data/MLOPS/Assignment/newMlops_code/mlops-test-train/mlruns/200541608506512358/08b3340097e64eeaa899059c77d23d71/artifacts
+end_time: 1737827446555
+entry_point_name: ''
+experiment_id: '200541608506512358'
+lifecycle_stage: active
+run_id: 08b3340097e64eeaa899059c77d23d71
+run_name: caring-dolphin-827
+run_uuid: 08b3340097e64eeaa899059c77d23d71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737827446481
+status: 4
+tags: []
+user_id: sansharma

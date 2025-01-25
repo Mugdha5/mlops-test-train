@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sansharma/Desktop/PG/3rd_Sem_Data/MLOPS/Assignment/newMlops_code/mlops-test-train/animal_classification_model/mlruns/902795202297568382/edfaf7d5772f4d89973e7a53b3c83c41/artifacts
+end_time: 1737828050311
+entry_point_name: ''
+experiment_id: '902795202297568382'
+lifecycle_stage: active
+run_id: edfaf7d5772f4d89973e7a53b3c83c41
+run_name: debonair-horse-374
+run_uuid: edfaf7d5772f4d89973e7a53b3c83c41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737828012915
+status: 3
+tags: []
+user_id: sansharma
