@@ -1,0 +1,5 @@
+outs:
+- md5: 22815a954ff3e83ce44b1ebd4e68b8a5
+  size: 4410
+  hash: md5
+  path: zoo.csv
