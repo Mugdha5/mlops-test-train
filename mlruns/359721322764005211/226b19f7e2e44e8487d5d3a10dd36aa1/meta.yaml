@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/WN766BG/Downloads/Mlops/mlops-test-train/animal_classification_model/mlruns/359721322764005211/226b19f7e2e44e8487d5d3a10dd36aa1/artifacts
+end_time: 1737824117531
+entry_point_name: ''
+experiment_id: '359721322764005211'
+lifecycle_stage: active
+run_id: 226b19f7e2e44e8487d5d3a10dd36aa1
+run_name: powerful-roo-557
+run_uuid: 226b19f7e2e44e8487d5d3a10dd36aa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737824082479
+status: 3
+tags: []
+user_id: WN766BG

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/WN766BG/Downloads/Mlops/mlops-test-train/animal_classification_model/mlruns/359721322764005211
+creation_time: 1737823897948
+experiment_id: '359721322764005211'
+last_update_time: 1737823897948
+lifecycle_stage: active
+name: Random Model Classifier
