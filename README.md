@@ -1,4 +1,4 @@
-#MLOps Project
+#MLOps Project:
 
 This project covers the fundamentals and hands-on practices of MLOps, from setting up CI/CD pipelines to deploying and orchestrating machine learning models. The project is divided into four modules, each focusing on different aspects of MLOps.
 
